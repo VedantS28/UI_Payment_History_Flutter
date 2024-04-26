@@ -1,16 +1,8 @@
-# flutter_application_1
+# A Flutter UI For Payment History
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Library Used- fl_charts
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1714104453](https://github.com/VedantS28/UI_Payment_History_Flutter/assets/162162564/58cf8d12-8762-438c-a5bb-540a6b90a854)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
